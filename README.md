@@ -1,4 +1,4 @@
-## Welcome to the [AZ-ASCEND website.](az-ascend.github.io) 
+## Welcome to the [AZ-ASCEND website.](https://az-ascend.github.io) 
 
 
 You can use the [editor on GitHub](https://github.com/az-ascend/az-ascend/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
