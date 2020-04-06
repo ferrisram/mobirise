@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the AZ-ASCEND website. Click here for the website link: az-ascend.github.io
 
 You can use the [editor on GitHub](https://github.com/az-ascend/az-ascend/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
